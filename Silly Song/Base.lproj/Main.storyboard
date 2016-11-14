@@ -43,7 +43,7 @@
                                     <action selector="reset:" destination="BYZ-38-t0r" eventType="editingDidBegin" id="bhq-8J-xZN"/>
                                 </connections>
                             </textField>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="cwh-LK-4Oh">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="cwh-LK-4Oh">
                                 <rect key="frame" x="84" y="205" width="206" height="318"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <constraints>

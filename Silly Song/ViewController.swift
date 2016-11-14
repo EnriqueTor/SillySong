@@ -48,6 +48,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
 
     @IBAction func reset(_ sender: Any) {
         self.textSong.text = ""
+        self.nameLabel.text = ""
     }
     
     @IBAction func displayLyrics(_ sender: Any) {
